@@ -7,5 +7,6 @@
 [Avance1_PIA_Equipo1] (https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Avance1_PIA_Equipo1.ipynb)
 ##Fase II
 [Presentacion Tecnicas de Mineria de Datos] (https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Presentaci%C3%B3n_Regresi%C3%B3n%20Lineal_N.01.pdf)
+[Ejemplo Presentacion Tecnicas de Mineria de Datos] (https://github.com/LagosJA/Mineria_de_Datos/blob/main/Regresion_Lineal_Equipo1.ipynb)
 ##Examenes
 [Examen Diagnostico] (https://github.com/LuviRogue/Mineria_de_Datos/blob/main/Examen_1793775.pdf)
