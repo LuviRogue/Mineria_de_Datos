@@ -18,6 +18,8 @@
 
 [Ejemplo Presentacion Tecnicas de Mineria de Datos](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Regresion_Lineal_Equipo1.ipynb)
 
+[Practica II: Visualizacion de Datos](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Visualizacion_Equipo1.ipynb)
+
 ## Examenes
 
 [Examen Diagnostico](https://github.com/LuviRogue/Mineria_de_Datos/blob/main/Examen_1793775.pdf)
