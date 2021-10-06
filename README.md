@@ -8,9 +8,9 @@
 
 [Ejercicios de Python (basicos)](https://github.com/LuviRogue/Mineria_de_Datos/blob/main/Ej_Python_1793775.ipynb)
 
-[Ej_Limpieza_1](https://github.com/ReginaMb/Data_Mining/blob/main/Ej_Limpieza_1.ipynb)
+[Practica I: Limpieza de Datos](https://github.com/ReginaMb/Data_Mining/blob/main/Ej_Limpieza_1.ipynb)
 
-[Avance1_PIA_Equipo1](https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Avance1_PIA_Equipo1.ipynb)
+[Avance 1 PIA Equipo 1](https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Avance1_PIA_Equipo1.ipynb)
 
 ## Fase II
 
