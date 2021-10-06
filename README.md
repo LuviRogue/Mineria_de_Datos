@@ -20,6 +20,8 @@
 
 [Practica II: Visualizacion de Datos](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Visualizacion_Equipo1.ipynb)
 
+[Avance 2 PIA Equipo 1](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Avance_II_PIA_Equipo1.ipynb)
+
 ## Examenes
 
 [Examen Diagnostico](https://github.com/LuviRogue/Mineria_de_Datos/blob/main/Examen_1793775.pdf)
