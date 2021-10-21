@@ -24,6 +24,10 @@
 
 [Tecnicas de Mineria de Datos](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Ejercicios_Tecnicas_Equipo1.ipynb)
 
+## Fase III
+
+[Notebook Final](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Notebook_PIA_Equipo1.ipynb)
+
 ## Examenes
 
 [Examen Diagnostico](https://github.com/LuviRogue/Mineria_de_Datos/blob/main/Examen_1793775.pdf)
