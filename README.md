@@ -28,6 +28,8 @@
 
 [Notebook Final](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Notebook_PIA_Equipo1.ipynb)
 
+[Poster PIA](https://github.com/ReginaMb/Data_Mining/blob/main/Poster%20Equipo%201.pdf)
+
 ## Examenes
 
 [Examen Diagnostico](https://github.com/LuviRogue/Mineria_de_Datos/blob/main/Examen_1793775.pdf)
