@@ -1,5 +1,9 @@
 # Mineria de Datos
 
+##Material de clase
+
+[Github Maestra](https://github.com/mayraberrones94/Ciencia_de_Datos)
+
 ## Fase I
 
 [Mapa Mental I](https://github.com/LuviRogue/Mineria_de_Datos/blob/main/MapaMental_1_1793775.pdf)
