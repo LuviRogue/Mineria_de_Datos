@@ -6,6 +6,8 @@
 
 [Presentacion 1](https://github.com/LuviRogue/Mineria_de_Datos/blob/main/Presentacion_1pdf.pdf)
 
+[Presentacion 2](https://github.com/LuviRogue/Mineria_de_Datos/blob/main/Presentation_2.pdf)
+
 ## Fase I
 
 [Mapa Mental I](https://github.com/LuviRogue/Mineria_de_Datos/blob/main/MapaMental_1_1793775.pdf)
