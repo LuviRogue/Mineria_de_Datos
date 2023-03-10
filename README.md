@@ -1,6 +1,6 @@
 # Mineria de Datos
 
-##Material de clase
+## Material de clase
 
 [Github Maestra](https://github.com/mayraberrones94/Ciencia_de_Datos)
 
