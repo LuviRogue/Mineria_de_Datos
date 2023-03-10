@@ -4,6 +4,8 @@
 
 [Github Maestra](https://github.com/mayraberrones94/Ciencia_de_Datos)
 
+[Presentacion 1](https://github.com/LuviRogue/Mineria_de_Datos/blob/main/Presentacion_1pdf.pdf)
+
 ## Fase I
 
 [Mapa Mental I](https://github.com/LuviRogue/Mineria_de_Datos/blob/main/MapaMental_1_1793775.pdf)
